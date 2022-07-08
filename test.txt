@@ -7,3 +7,6 @@ new changes are made to see if it reflects on GitHub
 To verify git push only pushs commits
 
 Experimenting with force push
+
+I have downloaded this repository from GitHub and now I want the changes on this file to also
+reflect on local repository with different file and folder name.
