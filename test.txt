@@ -3,3 +3,7 @@ Git Verification
 
 Git Verification 2
 new changes are made to see if it reflects on GitHub
+
+To verify git push only pushs commits
+
+Experimenting with force push
